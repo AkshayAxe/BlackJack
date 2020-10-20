@@ -1,3 +1,4 @@
+//All the intilizations for the player 'Computer' will be done here
 import java.util.Random;
 
 public class Computer {

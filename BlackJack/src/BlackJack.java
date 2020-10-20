@@ -3,7 +3,7 @@ public class BlackJack {
 	
 
 	public static void main(String[] args) {
-		
+		//Code for the game
 		Player player = new Player();
 		Computer computer = new Computer();
 		Scanner in = new Scanner(System.in);
